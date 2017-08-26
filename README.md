@@ -10,6 +10,17 @@ Dunno
 
 Let's find out
 
+### It's possible!!!
+
+At least I think it's possible.
+
+I'll just have to generate a jekyll site, host it on heroku, set some configurations and let the fucking magic happens!!
+
+[This amazing tutorial is teaching me to do this](http://www.alexandrejoseph.com/blog/2015-03-11-restricted-github-pages.html)
+
+But I'll have to learn how to set relative url path with markdown.
+
+hm...
 
 ## App
 
@@ -18,3 +29,4 @@ Do you know about our App app?
 Wanna know what the app app is? Of course you want!
 
 So come on... come on [here](https://github.com/otrabalhador/github-page-with-password/blob/master/docs/app/index.md)
+
