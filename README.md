@@ -2,6 +2,8 @@
 
 This is a test for Github pages creation.
 
+The page is right [here](https://otrabalhador.github.io/github-page-with-password/)
+
 My intention is to create a Github Pages that parses from Markdown and is protected with a password.
 
 Is that possible?
