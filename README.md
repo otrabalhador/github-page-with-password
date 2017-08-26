@@ -22,11 +22,16 @@ But I'll have to learn how to set relative url path with markdown.
 
 hm...
 
+Fuck!! It's possible. I love Markdown!!
+
+Look here: https://github.com/blog/1395-relative-links-in-markup-files
+
+
 ## App
 
 Do you know about our App app?
 
 Wanna know what the app app is? Of course you want!
 
-So come on... come on [here](https://github.com/otrabalhador/github-page-with-password/blob/master/docs/app/index.md)
+So come on... come on [here](docs/app/index.md)
 
