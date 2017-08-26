@@ -17,4 +17,4 @@ Do you know about our App app?
 
 Wanna know what the app app is? Of course you want!
 
-So come on... come on [here](https://github.com/otrabalhador/github-page-with-password/blob/master/docs/app/index.md)
+So come on... come on [here](https://otrabalhador.github.io/github-page-with-password/docs/app/index)
