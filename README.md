@@ -35,5 +35,5 @@ Do you know about our App app?
 
 Wanna know what the app app is? Of course you want!
 
-So come on... come on [here](docs/app/index.md)
+So come on... come on [here](/docs/app/index.md)
 
