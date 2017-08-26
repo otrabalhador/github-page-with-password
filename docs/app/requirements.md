@@ -7,6 +7,6 @@ App loves you!
 
 ![I love you](https://media.giphy.com/media/kizj4xHhQfkEo/giphy.gif)
 
-[App](https://github.com/otrabalhador/github-page-with-password/blob/master/docs/app/index.md)
+[App](docs/app/index.md)
 
 
